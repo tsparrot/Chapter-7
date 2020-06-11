@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="c570c338-ed42-4e02-a34d-5b5c6076a37f" />
+      <option name="name" value="c570c338-ed42-4e02-a34d-5b5c6076a37f" />
+      <option name="url" value="https://maven.aliyun.com/nexus/content/groups/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="07c0aaed-3779-4cbe-aaac-d38ccac67271" />
+      <option name="name" value="07c0aaed-3779-4cbe-aaac-d38ccac67271" />
+      <option name="url" value="https://maven.aliyun.com/nexus/content/repositories/jcenter" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="1767757d-8c01-418c-99c8-06cc8fd7381c" />
+      <option name="name" value="1767757d-8c01-418c-99c8-06cc8fd7381c" />
+      <option name="url" value="https://maven.aliyun.com/nexus/content/repositories/google" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="94096e68-eea9-4ada-8fe7-33afd0abe954" />
+      <option name="name" value="94096e68-eea9-4ada-8fe7-33afd0abe954" />
+      <option name="url" value="https://maven.aliyun.com/nexus/content/repositories/gradle-plugin" />
+    </remote-repository>
+  </component>
+</project>
